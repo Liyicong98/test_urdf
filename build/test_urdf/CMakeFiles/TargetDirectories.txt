@@ -1,0 +1,9 @@
+/home/liyicong/test_urdf/build/test_urdf/CMakeFiles/uninstall.dir
+/home/liyicong/test_urdf/build/test_urdf/CMakeFiles/test_urdf_uninstall.dir
+/home/liyicong/test_urdf/build/test_urdf/CMakeFiles/test.dir
+/home/liyicong/test_urdf/build/test_urdf/CMakeFiles/edit_cache.dir
+/home/liyicong/test_urdf/build/test_urdf/CMakeFiles/rebuild_cache.dir
+/home/liyicong/test_urdf/build/test_urdf/CMakeFiles/list_install_components.dir
+/home/liyicong/test_urdf/build/test_urdf/CMakeFiles/install.dir
+/home/liyicong/test_urdf/build/test_urdf/CMakeFiles/install/local.dir
+/home/liyicong/test_urdf/build/test_urdf/CMakeFiles/install/strip.dir

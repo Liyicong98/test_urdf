@@ -1,0 +1,31 @@
+[0.009s] Invoking command in '/home/liyicong/test_urdf/build/test_urdf': CMAKE_PREFIX_PATH=/home/liyicong/test_urdf/install/test_urdf:/home/liyicong/ws01_plumbing/install/py03_action:/home/liyicong/ws01_plumbing/install/py02_service:/home/liyicong/ws01_plumbing/install/py01_topic:/opt/ros/humble:/home/liyicong/ws01_plumbing/install/guanjie:/home/liyicong/ws01_plumbing/install/base_interfaces_demo /usr/bin/cmake --build /home/liyicong/test_urdf/build/test_urdf -- -j2 -l2
+[0.053s] Invoked command in '/home/liyicong/test_urdf/build/test_urdf' returned '0': CMAKE_PREFIX_PATH=/home/liyicong/test_urdf/install/test_urdf:/home/liyicong/ws01_plumbing/install/py03_action:/home/liyicong/ws01_plumbing/install/py02_service:/home/liyicong/ws01_plumbing/install/py01_topic:/opt/ros/humble:/home/liyicong/ws01_plumbing/install/guanjie:/home/liyicong/ws01_plumbing/install/base_interfaces_demo /usr/bin/cmake --build /home/liyicong/test_urdf/build/test_urdf -- -j2 -l2
+[0.062s] Invoking command in '/home/liyicong/test_urdf/build/test_urdf': CMAKE_PREFIX_PATH=/home/liyicong/test_urdf/install/test_urdf:/home/liyicong/ws01_plumbing/install/py03_action:/home/liyicong/ws01_plumbing/install/py02_service:/home/liyicong/ws01_plumbing/install/py01_topic:/opt/ros/humble:/home/liyicong/ws01_plumbing/install/guanjie:/home/liyicong/ws01_plumbing/install/base_interfaces_demo /usr/bin/cmake --install /home/liyicong/test_urdf/build/test_urdf
+[0.068s] -- Install configuration: ""
+[0.068s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/launch
+[0.068s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/launch/display.launch.py
+[0.068s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/urdf
+[0.070s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/urdf/urdf
+[0.070s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/urdf/urdf/guanjie2.urdf
+[0.070s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/rviz
+[0.070s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/meshes
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/meshes/link1.STL
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/meshes/base_link.STL
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/meshes/link2.STL
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/lib/test_urdf/fixed_pose.py
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/ament_index/resource_index/package_run_dependencies/test_urdf
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/ament_index/resource_index/parent_prefix_path/test_urdf
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/environment/ament_prefix_path.sh
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/environment/ament_prefix_path.dsv
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/environment/path.sh
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/environment/path.dsv
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/local_setup.bash
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/local_setup.sh
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/local_setup.zsh
+[0.071s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/local_setup.dsv
+[0.071s] -- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/package.dsv
+[0.074s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/ament_index/resource_index/packages/test_urdf
+[0.074s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/cmake/test_urdfConfig.cmake
+[0.074s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/cmake/test_urdfConfig-version.cmake
+[0.074s] -- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/package.xml
+[0.075s] Invoked command in '/home/liyicong/test_urdf/build/test_urdf' returned '0': CMAKE_PREFIX_PATH=/home/liyicong/test_urdf/install/test_urdf:/home/liyicong/ws01_plumbing/install/py03_action:/home/liyicong/ws01_plumbing/install/py02_service:/home/liyicong/ws01_plumbing/install/py01_topic:/opt/ros/humble:/home/liyicong/ws01_plumbing/install/guanjie:/home/liyicong/ws01_plumbing/install/base_interfaces_demo /usr/bin/cmake --install /home/liyicong/test_urdf/build/test_urdf

@@ -1,0 +1,99 @@
+<!-- <?xml version="1.0" encoding="utf-8"?> -->
+<!-- ROS 2 版本 URDF，兼容 ROS 2 Humble/Galactic/Foxy -->
+<robot name="guanjie2">
+
+    <!-- Base Link -->
+    <link name="base_link">
+      <inertial>
+        <origin xyz="2.6085e-07 0.0033646 0.043152" rpy="0 0 0" />
+        <mass value="0.8847" />
+        <inertia ixx="0.00041849" ixy="2.0128e-06" ixz="2.0161e-06"
+                 iyy="0.00040922" iyz="1.4255e-11" izz="0.00040922" />
+      </inertial>
+      <visual>
+        <origin xyz="0 0 0" rpy="0 0 0" />
+        <geometry>
+          <mesh filename="package://test_urdf/meshes/base_link.STL" />
+        </geometry>
+        <material name="base_color">
+          <color rgba="0.64706 0.61961 0.58824 1" />
+        </material>
+      </visual>
+      <collision>
+        <origin xyz="0 0 0" rpy="0 0 0" />
+        <geometry>
+          <mesh filename="package://test_urdf/meshes/base_link.STL" />
+        </geometry>
+      </collision>
+    </link>
+  
+    <!-- Link1 -->
+    <link name="link1">
+      <inertial>
+        <origin xyz="0.19498 6.1134e-06 -0.040467" rpy="0 0 0" />
+        <mass value="3.325" />
+        <inertia ixx="0.011522" ixy="3.876e-09" ixz="0.00013923"
+                 iyy="0.010828" iyz="-7.0079e-08" izz="0.010593" />
+      </inertial>
+      <visual>
+        <origin xyz="0 0 0" rpy="0 0 0" />
+        <geometry>
+          <mesh filename="package://test_urdf/meshes/link1.STL" />
+        </geometry>
+        <material name="link1_color">
+          <color rgba="0.64706 0.61961 0.58824 1" />
+        </material>
+      </visual>
+      <collision>
+        <origin xyz="0 0 0" rpy="0 0 0" />
+        <geometry>
+          <mesh filename="package://test_urdf/meshes/link1.STL" />
+        </geometry>
+      </collision>
+    </link>
+  
+    <!-- Joint1 -->
+    <joint name="joint1" type="revolute">
+      <origin xyz="0.04 3.5715e-05 0.0855" rpy="-0.00058841 0 0" />
+      <parent link="base_link" />
+      <child link="link1" />
+      <axis xyz="0 0.00017069 -1" />
+      <limit lower="-3.14" upper="3.14" effort="10.0" velocity="1.0" />
+    </joint>
+  
+    <!-- Link2 -->
+    <link name="link2">
+      <inertial>
+        <origin xyz="-1.3136 0.039102 0.012593" rpy="0 0 0" />
+        <mass value="26.638" />
+        <inertia ixx="0.10045" ixy="-7.4733e-06" ixz="0.0041356"
+                 iyy="0.13205" iyz="-1.2215e-05" izz="0.13255" />
+      </inertial>
+      <visual>
+        <origin xyz="0 0 0" rpy="0 0 0" />
+        <geometry>
+          <mesh filename="package://test_urdf/meshes/link2.STL" />
+        </geometry>
+        <material name="link2_color">
+          <color rgba="0.89804 0.91765 0.92941 1" />
+        </material>
+      </visual>
+      <collision>
+        <origin xyz="0 0 0" rpy="0 0 0" />
+        <geometry>
+          <mesh filename="package://test_urdf/meshes/link2.STL" />
+        </geometry>
+      </collision>
+    </link>
+  
+    <!-- Joint2 -->
+    <joint name="joint2" type="revolute">
+      <origin xyz="-0.04 -0.038981 0.046516" rpy="-0.00058841 0 0" />
+      <parent link="base_link" />
+      <child link="link2" />
+      <axis xyz="0 1 0.00017069" />
+      <limit lower="-3.14" upper="3.14" effort="10.0" velocity="1.0" />
+    </joint>
+  
+  </robot>
+  

@@ -1,0 +1,26 @@
+-- Install configuration: ""
+-- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/launch
+-- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/launch/ display.launch.py
+-- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/urdf
+-- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/urdf/urdf
+-- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/urdf/urdf/guanjie2.urdf
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/rviz
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/meshes
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/meshes/link1.STL
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/meshes/base_link.STL
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/meshes/link2.STL
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/ament_index/resource_index/package_run_dependencies/test_urdf
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/ament_index/resource_index/parent_prefix_path/test_urdf
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/environment/ament_prefix_path.sh
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/environment/ament_prefix_path.dsv
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/environment/path.sh
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/environment/path.dsv
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/local_setup.bash
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/local_setup.sh
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/local_setup.zsh
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/local_setup.dsv
+-- Up-to-date: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/package.dsv
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/ament_index/resource_index/packages/test_urdf
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/cmake/test_urdfConfig.cmake
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/cmake/test_urdfConfig-version.cmake
+-- Installing: /home/liyicong/test_urdf/install/test_urdf/share/test_urdf/package.xml
